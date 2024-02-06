@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "288034549275",
+    "project_id": "phone-login-ex",
+    "storage_bucket": "phone-login-ex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288034549275:android:08305b966c16edd57c92be",
+        "android_client_info": {
+          "package_name": "com.example.phonelogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwZ4BEHE2YAo7uSEmnM4_dcO7eOytQYOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
